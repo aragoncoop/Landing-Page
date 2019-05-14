@@ -9,8 +9,8 @@ What do we do (some useful blurb)
 
 How you can join (membership process doc)
 
-Where would my skills be best placed (list of current Working Groups)
+Where could my current skills be best placed (list of current Working Groups, further opportunities)
 
-How can I contribute (links to keybase, chat, forum, 3box?)
+How can I contribute to the community (links to keybase, chat, forum, 3box?)
 
 Examples of work we're involved in (various demo's)
