@@ -12,6 +12,7 @@ How you can join (membership process doc)
 Where could my current skills be best placed (list of current Working Groups, further opportunities)
 
 *How can I contribute to the community* (links to 3box?)
+
 We communicate via various channels on [keybase](https://keybase.io/). Once signed up, search for 'aragoncoop' to join.
 You can also contribute to the community on the Aragon [chat](https://aragon.chat/) and [forum](https://forum.aragon.org) (search `cooperative` for various related info from previous posts).
 
