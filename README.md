@@ -1,4 +1,4 @@
-# Landing-Page
+# Landing Page
 **A Place to Get Started**
 
 This Repo is an active space, where we can share information regarding the Aragon Cooperative DAO.
